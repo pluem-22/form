@@ -202,68 +202,65 @@
         <option>ตำบลบ้านกาด</option>
         <option>ตำบลดอนแก้ว</option>
         <option>ตำบลหนองหาร</option>
-<option>ตำบลสันกำแพง</option>
-<option>ตำบลตองเซ็ง</option>
-<option>ตำบลบ้านถวาย</option>
-<option>ตำบลแม่แฝก</option>
-<option>ตำบลหนองหาร</option>
-<option>ตำบลหางดง</option>
-<option>ตำบลบ้านแหวน</option>
-<option>ตำบลหนองควาย</option>
-<option>ตำบลขี้เหล็ก</option>
-<option>ตำบลดอยสะเก็ด</option>
-<option>ตำบลสบเปิง</option>
-<option>ตำบลป่าสัก</option>
-<option>ตำบลแม่สาบ</option>
-<option>ตำบลลำพูน</option>
-<option>ตำบลแม่ปั๋ง</option>
-<option>ตำบลป่าไม้แดง</option>
-<option>ตำบลสารภี</option>
-<option>ตำบลทุ่งเสี้ยว</option>
-<option>ตำบลหนองผึ้ง</option>
-<option>ตำบลพาน</option>
-<option>ตำบลท่าจำปี</option>
-<option>ตำบลแม่แตง</option>
-<option>ตำบลช้างเผือก</option>
-<option>ตำบลหนองหาร</option>
-<option>ตำบลป่าตัน</option>
-<option>ตำบลแม่วาง</option>
-<option>ตำบลแม่สา</option>
-<option>ตำบลหนองผึ้ง</option>
-<option>ตำบลแม่ออน</option>
-<option>ตำบลสบเปิง</option>
-<option>ตำบลป่าแงะ</option>
-<option>ตำบลจอมทอง</option>
-<option>ตำบลท่าข้าม</option>
-<option>ตำบลบ้านอีต่อง</option>
-<option>ตำบลสะเมิง</option>
-<option>ตำบลสะเมิงใต้</option>
-<option>ตำบลป่าแดด</option>
-<option>ตำบลแม่เจดีย์</option>
-<option>ตำบลฝาง</option>
-<option>ตำบลแม่คะ</option>
-<option>ตำบลแม่ฝาง</option>
-<option>ตำบลแม่แจ่ม</option>
-<option>ตำบลห้วยแม่ขมิ้น</option>
-<option>ตำบลแม่ออน</option>
-<option>ตำบลอมก๋อย</option>
-<option>ตำบลแม่ข่า</option>
-<option>ตำบลแม่ตื่น</option>
-<option>ตำบลเวียงแหง</option>
-<option>ตำบลแม่ข้า</option>
-<option>ตำบลไชยปราการ</option>
-<option>ตำบลแม่ทะ</option>
-<option>ตำบลแม่ทะ</option>
-<option>ตำบลแม่ขมิ้น</option>
-<option>ตำบลดอยเต่า</option>
-<option>ตำบลแม่ตื่น</option>
+        <option>ตำบลสันกำแพง</option>
+        <option>ตำบลตองเซ็ง</option>
+        <option>ตำบลบ้านถวาย</option>
+        <option>ตำบลแม่แฝก</option>
+        <option>ตำบลหนองหาร</option>
+        <option>ตำบลหางดง</option>
+        <option>ตำบลบ้านแหวน</option>
+        <option>ตำบลหนองควาย</option>
+        <option>ตำบลขี้เหล็ก</option>
+        <option>ตำบลดอยสะเก็ด</option>
+        <option>ตำบลสบเปิง</option>
+        <option>ตำบลป่าสัก</option>
+        <option>ตำบลแม่สาบ</option>
+        <option>ตำบลลำพูน</option>
+        <option>ตำบลแม่ปั๋ง</option>
+        <option>ตำบลป่าไม้แดง</option>
+        <option>ตำบลสารภี</option>
+        <option>ตำบลทุ่งเสี้ยว</option>
+        <option>ตำบลหนองผึ้ง</option>
+        <option>ตำบลพาน</option>
+        <option>ตำบลท่าจำปี</option>
+        <option>ตำบลแม่แตง</option>
+        <option>ตำบลช้างเผือก</option>
+        <option>ตำบลหนองหาร</option>
+        <option>ตำบลป่าตัน</option>
+        <option>ตำบลแม่วาง</option>
+        <option>ตำบลแม่สา</option>
+        <option>ตำบลหนองผึ้ง</option>
+        <option>ตำบลแม่ออน</option>
+        <option>ตำบลสบเปิง</option>
+        <option>ตำบลป่าแงะ</option>
+        <option>ตำบลจอมทอง</option>
+        <option>ตำบลท่าข้าม</option>
+        <option>ตำบลบ้านอีต่อง</option>
+        <option>ตำบลสะเมิง</option>
+        <option>ตำบลสะเมิงใต้</option>
+        <option>ตำบลป่าแดด</option>
+        <option>ตำบลแม่เจดีย์</option>
+        <option>ตำบลฝาง</option>
+        <option>ตำบลแม่คะ</option>
+        <option>ตำบลแม่ฝาง</option>
+        <option>ตำบลแม่แจ่ม</option>
+        <option>ตำบลห้วยแม่ขมิ้น</option>
+        <option>ตำบลแม่ออน</option>
+        <option>ตำบลอมก๋อย</option>
+        <option>ตำบลแม่ข่า</option>
+        <option>ตำบลแม่ตื่น</option>
+        <option>ตำบลเวียงแหง</option>
+        <option>ตำบลแม่ข้า</option>
+        <option>ตำบลไชยปราการ</option>
+        <option>ตำบลแม่ทะ</option>
+        <option>ตำบลแม่ทะ</option>
+        <option>ตำบลแม่ขมิ้น</option>
+        <option>ตำบลดอยเต่า</option>
+        <option>ตำบลแม่ตื่น</option>
 
     </select>
         </select>
        </div> 
-       
-       
-      
       <div class="col-md-3">
         <label for="validationCustom05" class="form-label">รหัสไปรษณีย์</label>
         <input type="text" class="form-control" id="validationCustom05" required="">
@@ -317,8 +314,6 @@
           Looks good!
         </div>
       </div>
-
-      
       <div class="col-md-4">
         <label for="validationCustomUsername" class="form-label">บ้านเลขที่</label>
         <div class="input-group has-validation">
@@ -329,14 +324,8 @@
           </div>
         </div>
 
-
         
-      </div>
-
-
-
-
-      
+      </div>    
       <div class="col-md-3">
         <label for="validationCustom04" class="form-label">จังหวัด</label>
         <select class="form-select" id="validationCustom04" required="">
@@ -491,68 +480,65 @@
         <option>ตำบลบ้านกาด</option>
         <option>ตำบลดอนแก้ว</option>
         <option>ตำบลหนองหาร</option>
-<option>ตำบลสันกำแพง</option>
-<option>ตำบลตองเซ็ง</option>
-<option>ตำบลบ้านถวาย</option>
-<option>ตำบลแม่แฝก</option>
-<option>ตำบลหนองหาร</option>
-<option>ตำบลหางดง</option>
-<option>ตำบลบ้านแหวน</option>
-<option>ตำบลหนองควาย</option>
-<option>ตำบลขี้เหล็ก</option>
-<option>ตำบลดอยสะเก็ด</option>
-<option>ตำบลสบเปิง</option>
-<option>ตำบลป่าสัก</option>
-<option>ตำบลแม่สาบ</option>
-<option>ตำบลลำพูน</option>
-<option>ตำบลแม่ปั๋ง</option>
-<option>ตำบลป่าไม้แดง</option>
-<option>ตำบลสารภี</option>
-<option>ตำบลทุ่งเสี้ยว</option>
-<option>ตำบลหนองผึ้ง</option>
-<option>ตำบลพาน</option>
-<option>ตำบลท่าจำปี</option>
-<option>ตำบลแม่แตง</option>
-<option>ตำบลช้างเผือก</option>
-<option>ตำบลหนองหาร</option>
-<option>ตำบลป่าตัน</option>
-<option>ตำบลแม่วาง</option>
-<option>ตำบลแม่สา</option>
-<option>ตำบลหนองผึ้ง</option>
-<option>ตำบลแม่ออน</option>
-<option>ตำบลสบเปิง</option>
-<option>ตำบลป่าแงะ</option>
-<option>ตำบลจอมทอง</option>
-<option>ตำบลท่าข้าม</option>
-<option>ตำบลบ้านอีต่อง</option>
-<option>ตำบลสะเมิง</option>
-<option>ตำบลสะเมิงใต้</option>
-<option>ตำบลป่าแดด</option>
-<option>ตำบลแม่เจดีย์</option>
-<option>ตำบลฝาง</option>
-<option>ตำบลแม่คะ</option>
-<option>ตำบลแม่ฝาง</option>
-<option>ตำบลแม่แจ่ม</option>
-<option>ตำบลห้วยแม่ขมิ้น</option>
-<option>ตำบลแม่ออน</option>
-<option>ตำบลอมก๋อย</option>
-<option>ตำบลแม่ข่า</option>
-<option>ตำบลแม่ตื่น</option>
-<option>ตำบลเวียงแหง</option>
-<option>ตำบลแม่ข้า</option>
-<option>ตำบลไชยปราการ</option>
-<option>ตำบลแม่ทะ</option>
-<option>ตำบลแม่ทะ</option>
-<option>ตำบลแม่ขมิ้น</option>
-<option>ตำบลดอยเต่า</option>
-<option>ตำบลแม่ตื่น</option>
-
+        <option>ตำบลสันกำแพง</option>
+        <option>ตำบลตองเซ็ง</option>
+        <option>ตำบลบ้านถวาย</option>
+        <option>ตำบลแม่แฝก</option>
+        <option>ตำบลหนองหาร</option>
+        <option>ตำบลหางดง</option>
+        <option>ตำบลบ้านแหวน</option>
+        <option>ตำบลหนองควาย</option>
+        <option>ตำบลขี้เหล็ก</option>
+        <option>ตำบลดอยสะเก็ด</option>
+        <option>ตำบลสบเปิง</option>
+        <option>ตำบลป่าสัก</option>
+        <option>ตำบลแม่สาบ</option>
+        <option>ตำบลลำพูน</option>
+        <option>ตำบลแม่ปั๋ง</option>
+        <option>ตำบลป่าไม้แดง</option>
+        <option>ตำบลสารภี</option>
+        <option>ตำบลทุ่งเสี้ยว</option>
+        <option>ตำบลหนองผึ้ง</option>
+        <option>ตำบลพาน</option>
+        <option>ตำบลท่าจำปี</option>
+        <option>ตำบลแม่แตง</option>
+        <option>ตำบลช้างเผือก</option>
+        <option>ตำบลหนองหาร</option>
+        <option>ตำบลป่าตัน</option>
+        <option>ตำบลแม่วาง</option>
+        <option>ตำบลแม่สา</option>
+        <option>ตำบลหนองผึ้ง</option>
+        <option>ตำบลแม่ออน</option>
+        <option>ตำบลสบเปิง</option>
+        <option>ตำบลป่าแงะ</option>
+        <option>ตำบลจอมทอง</option>
+        <option>ตำบลท่าข้าม</option>
+        <option>ตำบลบ้านอีต่อง</option>
+        <option>ตำบลสะเมิง</option>
+        <option>ตำบลสะเมิงใต้</option>
+        <option>ตำบลป่าแดด</option>
+        <option>ตำบลแม่เจดีย์</option>
+        <option>ตำบลฝาง</option>
+        <option>ตำบลแม่คะ</option>
+        <option>ตำบลแม่ฝาง</option>
+        <option>ตำบลแม่แจ่ม</option>
+        <option>ตำบลห้วยแม่ขมิ้น</option>
+        <option>ตำบลแม่ออน</option>
+        <option>ตำบลอมก๋อย</option>
+        <option>ตำบลแม่ข่า</option>
+        <option>ตำบลแม่ตื่น</option>
+        <option>ตำบลเวียงแหง</option>
+        <option>ตำบลแม่ข้า</option>
+        <option>ตำบลไชยปราการ</option>
+        <option>ตำบลแม่ทะ</option>
+        <option>ตำบลแม่ทะ</option>
+        <option>ตำบลแม่ขมิ้น</option>
+        <option>ตำบลดอยเต่า</option>
+        <option>ตำบลแม่ตื่น</option>
     </select>
         </select>
        </div> 
        
-       
-      
       <div class="col-md-3">
         <label for="validationCustom05" class="form-label">รหัสไปรษณีย์</label>
         <input type="text" class="form-control" id="validationCustom05" required="">
